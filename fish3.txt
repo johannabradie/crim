@@ -1,0 +1,4 @@
+Date,Species,Count
+2012-01-05,test goby,14
+2012-01-05,test,3
+2012-01-05,sturgeon,3
